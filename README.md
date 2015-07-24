@@ -2,7 +2,7 @@
 
 #Hello guys!
 
-This repository was created for testing [GitHub Pages](https://pages.github.com/) and see how it works...
+This repository was created for testing [GitHub Pages](https://pages.github.com/) and see how does it works...
 
 Hope everything goes nice and smooth!
 
