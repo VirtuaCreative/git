@@ -1,11 +1,15 @@
+# Site settings
+title: Virtua Creative Blog
+email: info@virtuacreative.com.br
+description: > # this means to ignore newlines until "baseurl:"
+  Olá! Este blog foi escrito em Jekyll e hospedado gratuitamente no GitHub Pages.
+  Tem como propósitos demonstrar os resultados desta contrução, bem como trazer 
+  informações e dicas interessantes de web design e desenvolvimento de websites.
+  Seja bem vindo! \o/
+baseurl: /blog/ # the subpath of your site, e.g. /blog/
+url: "http://virtuacreative.github.io/git" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  VirtuaCreative
+
 # Build settings
-
 markdown: kramdown
-baseurl: /git/blog
-permalink: pretty
-
-port: 3000
-
-sass:
-  sass_dir: assets/css
-  style: :nested
