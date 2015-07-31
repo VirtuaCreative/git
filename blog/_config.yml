@@ -6,7 +6,13 @@ highlighter: pygments
 markdown: kramdown
 disqus: virtuacreative
 
-title: Virtua Creative Blog
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      title: Virtua Creative Blog
+
 description: Virtua Creative Blog
 author:
   name: VirtuaCreative
