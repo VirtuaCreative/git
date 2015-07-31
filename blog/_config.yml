@@ -5,13 +5,7 @@ highlighter: pygments
 markdown: kramdown
 disqus: virtuacreative
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Virtua Creative Blog
-
+title: Virtua Creative Blog
 description: Virtua Creative Blog
 author:
   name: VirtuaCreative
