@@ -91,6 +91,7 @@ sub {
 
 img {
   border: 0;
+  -ms-interpolation-mode: bicubic;
 }
 
 svg:not(:root) {
