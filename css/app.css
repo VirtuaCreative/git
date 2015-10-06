@@ -92,6 +92,7 @@ sub {
 img {
   border: 0;
   -ms-interpolation-mode: bicubic;
+  max-height: 100%;
 }
 
 svg:not(:root) {
